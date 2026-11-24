@@ -1,17 +1,17 @@
 
-# Aplicación de Proyecto CIB
+# Aplicación de Proyecto DWEC
 ## 1. Descripción
-Esta aplicación web está desarrollada en PHP y Utilizada para vizualizar trabajo echo de la asignatura de Fundamentos de Ciberseguridad
+Esta aplicación web está desarrollada en PHP y Utilizada para vizualizar trabajo echo de la asignatura de Desarrollo de Web Entorno Cliente
 
 ## 2. Requisitos
 - PHP 8.3 o superior.
 - Un servidor web, como Apache, o el servidor de desarrollo integrado de PHP.
 ## 3. Instalación
 Clonar el repositorio:
-`git clone https://github.com/Juan-D07/JDPCIBProyectoCIB`
+`git clone https://github.com/Juan-D07/JDPDWECProyectoDWEC`
 
 Acceder a la carpeta del proyecto:
-`cd JDPCIBProyectoCIB`
+`cd JDPDWECProyectoDWEC`
 
 Iniciar el servidor de desarrollo de PHP:
 `php -S localhost:8000`
@@ -25,8 +25,8 @@ Visualiza las tareas
 ## 5. Estructura del proyecto
 
 ```bash
-JDPCIBProyectoCIB/
-├── indexProyectoCIB.php
+JDPDWECProyectoDWEC/
+├── indexProyectoDWEC.php
 ├── .htaccess
 ├── docs
 ├── error
